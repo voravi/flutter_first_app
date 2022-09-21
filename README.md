@@ -4,8 +4,12 @@ A new Flutter project.
 
 ## Getting Started
 
-# images
-![Screenshot_20220904_191635](https://user-images.githubusercontent.com/96048173/191314409-08d0d17c-eb3d-40c4-96c0-7c94783471ff.jpg)
+##Images
+
+![vactor](https://user-images.githubusercontent.com/96048173/191521555-23aa4afc-a904-4c5b-a36f-429128913705.jpg)
+
+### Resized
+<img src="https://user-images.githubusercontent.com/96048173/191521555-23aa4afc-a904-4c5b-a36f-429128913705.jpg" alt="vactor" width=300 height=300/>
 
 
 This project is a starting point for a Flutter application.
